@@ -18,4 +18,10 @@ public class SpringAzureDemoApplication {
 		SpringApplication.run(SpringAzureDemoApplication.class, args);
 	}
 
+
+	@GetMapping("/list")
+	public String list(){
+		return "list!";
+	}
+
 }
