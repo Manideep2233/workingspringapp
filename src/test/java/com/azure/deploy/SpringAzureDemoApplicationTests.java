@@ -1,4 +1,4 @@
-package com.javatechie.azure.demo;
+package com.azure.deploy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
